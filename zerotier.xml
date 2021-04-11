@@ -19,7 +19,7 @@
   <Support>https://lime-technology.com/forums/topic/72030-support-spikhalskiy-zerotier/</Support>
   <Registry>https://registry.hub.docker.com/u/spikhalskiy/zerotier/</Registry>
   <GitHub>https://github.com/Spikhalskiy/zerotier-unraid-docker.git</GitHub>
-  <Repository>spikhalskiy/zerotier:1.4.6</Repository>
+  <Repository>spikhalskiy/zerotier</Repository>
   <BaseImage>frolvlad/alpine-glibc:alpine-3.12_glibc-2.32</BaseImage>
   <WebUI></WebUI>
   <Banner>https://raw.githubusercontent.com/Spikhalskiy/docker-templates/master/images/zerotier_ico.png</Banner>
